@@ -1,0 +1,4 @@
+BOT_TOKEN = "BOT_TOKEN"
+BASE_URL = "http://localhost:1234"
+API_TOKEN = 'API_TOKEN'
+WHITELIST = []
